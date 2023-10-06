@@ -1,0 +1,12 @@
+#carouselExampleIndicators{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+.bestsellers{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+
